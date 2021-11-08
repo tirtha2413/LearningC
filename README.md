@@ -1,2 +1,2 @@
 # LearningC
-Here a you will get C programs of the list of my assignments.
+A list of compiled C programs for practice. Problem statements are mentioned in the program code.
